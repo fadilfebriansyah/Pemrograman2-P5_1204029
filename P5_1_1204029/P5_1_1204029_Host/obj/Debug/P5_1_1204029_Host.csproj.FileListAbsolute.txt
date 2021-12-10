@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\bin\Debug\P5_1_1204029_Host.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\bin\Debug\P5_1_1204029_Host.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\bin\Debug\P5_1_1204029_Host.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\bin\Debug\P5_1_1204029.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\bin\Debug\P5_1_1204029.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\obj\Debug\P5_1_1204029_Host.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\obj\Debug\P5_1_1204029_Host.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\obj\Debug\P5_1_1204029_Host.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\obj\Debug\P5_1_1204029_Host.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\obj\Debug\P5_1_1204029_Host.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_1_1204029\P5_1_1204029_Host\obj\Debug\P5_1_1204029_Host.pdb

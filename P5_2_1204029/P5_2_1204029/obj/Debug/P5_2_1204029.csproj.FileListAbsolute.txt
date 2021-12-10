@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_2_1204029\P5_2_1204029\obj\Debug\P5_2_1204029.DigitalClock.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_2_1204029\P5_2_1204029\obj\Debug\P5_2_1204029.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_2_1204029\P5_2_1204029\bin\Debug\P5_2_1204029.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_2_1204029\P5_2_1204029\bin\Debug\P5_2_1204029.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_2_1204029\P5_2_1204029\obj\Debug\P5_2_1204029.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_2_1204029\P5_2_1204029\obj\Debug\P5_2_1204029.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\P5_2_1204029\P5_2_1204029\obj\Debug\P5_2_1204029.csprojResolveAssemblyReference.cache
